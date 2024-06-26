@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "053234e52b601365",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a9fbcf2dc43e50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2e3ba9e6be475e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js-study/1. 프로그래밍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f8d38e7fdd5d34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js-study/2. 자바스크립트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73c37e11ec88f045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js-study/2. 자바스크립트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21f4b184934ac1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "18053191a76c0da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e202bf4f42d31ad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5cd9ae7be31591f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8684b5fd9f262b11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2867fdbafcc6336d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d612a145e1c75a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "093c9356dc0797a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57df44acba73328c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31fa3e5bc14884bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24934c821f27c43f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e177a9eff656dec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md"
+              }
+            }
+          },
+          {
+            "id": "e943b8b1617a2622",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "705c0a02494c28d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-file-cleaner:Clean files": false
+    }
+  },
+  "active": "21f4b184934ac1e2",
+  "lastOpenFiles": [
+    "js-study/4. 변수.md",
+    "js-study/참고/프론트 면접 질문 리스트.md",
+    "js-study/참고/코드에 접근하는 방식.md",
+    "js-study/참고/리액트 쿼리.md",
+    "js-study/README.md",
+    "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+    "js-study/2. 자바스크립트.md",
+    "js-study/참고/인터프리터 언어 vs 컴파일러 언어.md",
+    "js-study/참고",
+    "Pasted image 20240612163606.png",
+    "Pasted image 20240612163502.png",
+    "Pasted image 20240612163456.png",
+    "Pasted image 20240612163320.png",
+    "js-study/1. 프로그래밍.md",
+    "js-study/1장 프로그래밍",
+    "README.md",
+    "js-study"
+  ]
+}
