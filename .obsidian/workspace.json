@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "js-study/1. 프로그래밍.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f8d38e7fdd5d34a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js-study/2. 자바스크립트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73c37e11ec88f045",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js-study/2. 자바스크립트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21f4b184934ac1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "file": "4. 변수.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "file": "4. 변수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+                "file": "4. 변수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "js-study/3. 자바스크립트 개발 환경과 실행 방법.md"
+                "file": "4. 변수.md"
               }
             }
           },
@@ -201,14 +164,24 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "21f4b184934ac1e2",
+  "active": "c2e3ba9e6be475e8",
   "lastOpenFiles": [
+    "3. 자바스크립트 개발 환경과 실행 방법.md",
+    "1. 프로그래밍.md",
+    "2. 자바스크립트.md",
+    "README.md",
+    "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
+    "참고/프론트 면접 질문 리스트.md",
+    "참고/리액트 쿼리.md",
+    "참고/인터프리터 언어 vs 컴파일러 언어.md",
+    "참고/코드에 접근하는 방식.md",
+    "참고",
+    "4. 변수.md",
     "js-study/4. 변수.md",
     "js-study/참고/프론트 면접 질문 리스트.md",
     "js-study/참고/코드에 접근하는 방식.md",
     "js-study/참고/리액트 쿼리.md",
     "js-study/README.md",
-    "js-study/3. 자바스크립트 개발 환경과 실행 방법.md",
     "js-study/2. 자바스크립트.md",
     "js-study/참고/인터프리터 언어 vs 컴파일러 언어.md",
     "js-study/참고",
@@ -218,7 +191,6 @@
     "Pasted image 20240612163320.png",
     "js-study/1. 프로그래밍.md",
     "js-study/1장 프로그래밍",
-    "README.md",
     "js-study"
   ]
 }
