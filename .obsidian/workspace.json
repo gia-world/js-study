@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a21256daf4c3af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고/참고 블로그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "067afb009f14d44e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고/참고 코드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "561f4b0df5fed0b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "참고/폴더 구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. 변수.md",
+                "file": "참고/폴더 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. 변수.md",
+                "file": "참고/폴더 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. 변수.md"
+                "file": "참고/폴더 구조.md"
               }
             }
           },
@@ -164,8 +201,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "c2e3ba9e6be475e8",
+  "active": "561f4b0df5fed0b5",
   "lastOpenFiles": [
+    "참고/참고 코드.md",
+    "참고/폴더 구조.md",
+    "참고/참고 블로그.md",
+    "참고/코드에 접근하는 방식.md",
+    "4. 변수.md",
+    "Pasted image 20240627132723.png",
     "3. 자바스크립트 개발 환경과 실행 방법.md",
     "1. 프로그래밍.md",
     "2. 자바스크립트.md",
@@ -174,9 +217,7 @@
     "참고/프론트 면접 질문 리스트.md",
     "참고/리액트 쿼리.md",
     "참고/인터프리터 언어 vs 컴파일러 언어.md",
-    "참고/코드에 접근하는 방식.md",
     "참고",
-    "4. 변수.md",
     "js-study/4. 변수.md",
     "js-study/참고/프론트 면접 질문 리스트.md",
     "js-study/참고/코드에 접근하는 방식.md",
